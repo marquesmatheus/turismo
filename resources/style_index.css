@@ -1,0 +1,23 @@
+.panel {
+    width: 80%;
+    text-align: left;
+    border: 3px solid green;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+li {
+    line-height: 1.2;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+}
+
+p {
+    line-height: 1.2;
+}
